@@ -55,8 +55,8 @@ function App() {
 
   return (
     <>
-      <div className="w-[512px] min-h-screen lg:w-[1260px] mx-auto bg-[#292c30] ">
-        <div className="grid lg:grid-cols-2 lg:gap-8 lg:p-8  pt-10">
+      <div className="w-[512px] min-h-screen md:w-[1260px] lg:w-full mx-auto bg-[#292c30] ">
+        <div className="grid lg:grid-cols-2 lg:gap-8 md:gap-8 lg:p-8  pt-10">
           <div className="hidden lg:flex lg:h-[550px] w-[200px] lg:w-[600px] border-2 border-solid border-[#8cb1d7] rounded-xl bg-[#575756]">
           </div>
           <div className="w-[370px] lg:w-[600px] mx-auto">

@@ -1,8 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# website Name : Lunaca
+# Website url : https://lunacal-job-assignment.netlify.app/
+# Git hub link: https://github.com/GolamMuntakim/Lunaca-task
+# Uses Technologies : react js, tailwind css , daisy ui, react icons , react router dom
+# how to open the project : clone the project and run npm run dev
